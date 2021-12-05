@@ -1,0 +1,2 @@
+new_room = noone;
+
